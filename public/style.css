@@ -1,0 +1,75 @@
+tabelkategori {
+    border: 1px solid;
+    padding-top: 20px;
+}
+.tabelproduk {
+    border: 1px solid;
+    border-radius: 5px;
+    margin: auto;
+}
+.content {
+    background-color: aliceblue;
+    padding-left: 3px;
+}
+.luar {
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: grey;
+}
+.dalam {
+    padding: 5px;
+}
+th {
+    width: 50%;
+    background-color: white;
+    padding: 15px;
+    border: 1px solid;
+}
+td {
+    height: 70%;
+    background-color: lightgrey;
+    border: 1px solid;
+}
+.tombol {
+    margin-bottom: 3px;
+    padding-top: 3px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-bottom: 3px;
+    border: 2px solid white;
+    border-radius: 10px;
+    color: white;
+}
+.act {
+    background-color: cadetblue;
+    padding: 3px;
+    border: 2px solid black;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+.actd {
+    padding: 3px;
+    background-color: red;
+    border: 2px solid black;
+    margin-top: 6px;
+}
+#isi {
+    text-align: center;
+}
+#aksi {
+    padding: 5px;
+}
+#save {
+    background-color: white;
+    border: 2px solid black;
+    padding: 3px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+#cencel {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-color: red;
+    padding: 3px;
+    border: 2px solid black;
+}
