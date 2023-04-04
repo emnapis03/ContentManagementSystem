@@ -1,5 +1,5 @@
-### Nama    : Mohammad Nafis Nailul Murom <br>
-### Asal    : Universitas Islam Malang <br>
+#### Nama    : Mohammad Nafis Nailul Murom <br>
+#### Asal    : Universitas Islam Malang <br>
 
 ## Cara Menjalankan Aplikasi
 1. Clone Reposity ke local melalui cmd dengan format perintah "git clone (lin reposity)"
